@@ -27,6 +27,12 @@ Make sure you have Python 3.7+ installed.
 
 🎮 How to Play
 
+1. **Clone the repository:**
+
+git clone https://github.com/Devendra-singhh/TicTacThinker.git
+cd TicTacThinker.git
+
+
 Format: col,row (e.g. 2,1 for column 2, row 1)
 Player 'x' always moves first
 Type exit to quit
